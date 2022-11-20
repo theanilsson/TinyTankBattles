@@ -31,6 +31,7 @@ protected:
 private:
 
 	class ATank* Tank;
+	UPROPERTY()
 	class ATinyTanksPlayerController* TinyTanksPlayerController;
 
 	float StartDelay = 3.f;

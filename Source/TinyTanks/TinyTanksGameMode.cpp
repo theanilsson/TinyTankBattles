@@ -70,5 +70,3 @@ int32 ATinyTanksGameMode::GetTargetTowerCount()
     UGameplayStatics::GetAllActorsOfClass(this, ATurret::StaticClass(), Towers);
     return Towers.Num();
 }
-
-

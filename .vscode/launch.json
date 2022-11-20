@@ -4,7 +4,7 @@
 		{
 			"name": "Launch TinyTanks (Debug)",
 			"request": "launch",
-			"program": "C:\\Users\\lluca\\Documents\\Unreal Projects\\TinyTanks\\Binaries\\Win64\\UnrealGame-Win64-Debug.exe",
+			"program": "C:\\Users\\Vysterhea\\Documents\\Unreal Projects\\TinyTanks\\Binaries\\Win64\\UnrealGame-Win64-Debug.exe",
 			"preLaunchTask": "TinyTanks Win64 Debug Build",
 			"args": [
 			],
@@ -20,7 +20,7 @@
 		{
 			"name": "Launch TinyTanks (DebugGame)",
 			"request": "launch",
-			"program": "C:\\Users\\lluca\\Documents\\Unreal Projects\\TinyTanks\\Binaries\\Win64\\UnrealGame-Win64-DebugGame.exe",
+			"program": "C:\\Users\\Vysterhea\\Documents\\Unreal Projects\\TinyTanks\\Binaries\\Win64\\UnrealGame-Win64-DebugGame.exe",
 			"preLaunchTask": "TinyTanks Win64 DebugGame Build",
 			"args": [
 			],
@@ -36,7 +36,7 @@
 		{
 			"name": "Launch TinyTanks (Development)",
 			"request": "launch",
-			"program": "C:\\Users\\lluca\\Documents\\Unreal Projects\\TinyTanks\\Binaries\\Win64\\UnrealGame.exe",
+			"program": "C:\\Users\\Vysterhea\\Documents\\Unreal Projects\\TinyTanks\\Binaries\\Win64\\UnrealGame.exe",
 			"preLaunchTask": "TinyTanks Win64 Development Build",
 			"args": [
 			],
@@ -52,7 +52,7 @@
 		{
 			"name": "Launch TinyTanks (Test)",
 			"request": "launch",
-			"program": "C:\\Users\\lluca\\Documents\\Unreal Projects\\TinyTanks\\Binaries\\Win64\\UnrealGame-Win64-Test.exe",
+			"program": "C:\\Users\\Vysterhea\\Documents\\Unreal Projects\\TinyTanks\\Binaries\\Win64\\UnrealGame-Win64-Test.exe",
 			"preLaunchTask": "TinyTanks Win64 Test Build",
 			"args": [
 			],
@@ -68,7 +68,7 @@
 		{
 			"name": "Launch TinyTanks (Shipping)",
 			"request": "launch",
-			"program": "C:\\Users\\lluca\\Documents\\Unreal Projects\\TinyTanks\\Binaries\\Win64\\UnrealGame-Win64-Shipping.exe",
+			"program": "C:\\Users\\Vysterhea\\Documents\\Unreal Projects\\TinyTanks\\Binaries\\Win64\\UnrealGame-Win64-Shipping.exe",
 			"preLaunchTask": "TinyTanks Win64 Shipping Build",
 			"args": [
 			],
@@ -87,7 +87,7 @@
 			"program": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Binaries\\Win64\\UnrealEditor-Win64-Debug.exe",
 			"preLaunchTask": "TinyTanksEditor Win64 Debug Build",
 			"args": [
-				"C:\\Users\\lluca\\Documents\\Unreal Projects\\TinyTanks\\TinyTanks.uproject"
+				"C:\\Users\\Vysterhea\\Documents\\Unreal Projects\\TinyTanks\\TinyTanks.uproject"
 			],
 			"cwd": "C:\\Program Files\\Epic Games\\UE_5.0",
 			"stopAtEntry": false,
@@ -104,7 +104,7 @@
 			"program": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Binaries\\Win64\\UnrealEditor-Win64-DebugGame.exe",
 			"preLaunchTask": "TinyTanksEditor Win64 DebugGame Build",
 			"args": [
-				"C:\\Users\\lluca\\Documents\\Unreal Projects\\TinyTanks\\TinyTanks.uproject"
+				"C:\\Users\\Vysterhea\\Documents\\Unreal Projects\\TinyTanks\\TinyTanks.uproject"
 			],
 			"cwd": "C:\\Program Files\\Epic Games\\UE_5.0",
 			"stopAtEntry": false,
@@ -121,7 +121,7 @@
 			"program": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Binaries\\Win64\\UnrealEditor.exe",
 			"preLaunchTask": "TinyTanksEditor Win64 Development Build",
 			"args": [
-				"C:\\Users\\lluca\\Documents\\Unreal Projects\\TinyTanks\\TinyTanks.uproject"
+				"C:\\Users\\Vysterhea\\Documents\\Unreal Projects\\TinyTanks\\TinyTanks.uproject"
 			],
 			"cwd": "C:\\Program Files\\Epic Games\\UE_5.0",
 			"stopAtEntry": false,
@@ -140,7 +140,7 @@
 			"args": [
 				"-projectfiles",
 				"-vscode",
-				"-project=C:\\Users\\lluca\\Documents\\Unreal Projects\\TinyTanks\\TinyTanks.uproject",
+				"-project=C:\\Users\\Vysterhea\\Documents\\Unreal Projects\\TinyTanks\\TinyTanks.uproject",
 				"-game",
 				"-engine"
 			],
